@@ -53,4 +53,4 @@ Infra          Docker · Docker Compose · GitHub Actions (learning)
 
 ---
 
-📫 **Reach me:** [purusaluja4@gmail.com](mailto:purusaluja4@gmail.com)
+📫 **Reach me:** [purusaluja5@gmail.com](mailto:purusaluja5@gmail.com)
