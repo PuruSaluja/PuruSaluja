@@ -47,7 +47,7 @@ Runbooks, a room inventory and support procedures for classroom technology, with
 
 A full-stack app where four specialized AI agents collaborate in real-time to answer complex research questions. Planner breaks down queries, Researcher runs parallel web searches, Analyst synthesizes findings, Writer produces a structured Markdown report — all streamed live to the browser via SSE.
 
-→ [View project](https://github.com/PuruSaluja/multi-agent-research) · [Live demo](https://multi-agent-research.vercel.app) *(deploying)*
+→ [View project](https://github.com/PuruSaluja/multi-agent-research)
 
 ---
 
